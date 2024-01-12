@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="center">software developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [ETicaretAPI](https://github.com/GizemG6/ETicaretAPI)
 
