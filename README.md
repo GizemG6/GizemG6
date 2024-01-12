@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [ETicaretAPI](https://github.com/GizemG6/ETicaretAPI)
 
+- - 🔭 I’m currently working on [ETicaretClient](https://github.com/GizemG6/ETicaretClient)
+
 - 🌱 I’m currently learning **Angular, React, Microservices**
 
 - 💬 Ask me about **C#, .Net, Python, JavaScript**
