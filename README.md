@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="center">I'm a Software Developer</h3>
 
-- 🔭 I’m currently working on [ETicaretAPI](https://github.com/GizemG6/ETicaretAPI)
-
-- 🔭 I’m currently working on [ETicaretClient](https://github.com/GizemG6/ETicaretClient)
+- 🔭 I’m currently working on [CarBook](https://github.com/GizemG6/CarBook)
 
 - 🌱 I’m currently learning **Angular, React, Microservices**
 
