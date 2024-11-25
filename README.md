@@ -19,5 +19,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizemG6&layout=compact&langs_count=10)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=GizemG6&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GizemG6&theme=react-dark&hide_border=true)
+
 
