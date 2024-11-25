@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CarBook](https://github.com/GizemG6/CarBook)
 
-- 🌱 I’m currently learning **Angular, React, Microservices**
+- 🌱 I’m currently learning **React, Microservices, Redis**
 
 - 💬 Ask me about **C#, .Net, Python, JavaScript**
 
