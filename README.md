@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="center">I'm a Software Developer</h3>
 
-- 🔭 I’m currently working on https://github.com/GizemG6/MultiShop
+- 🔭 I’m currently working on [MultiShop](https://github.com/GizemG6/MultiShop)
 
 - 🌱 I’m currently learning **React, Microservices, Redis**
 
