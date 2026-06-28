@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="center">I'm a Software Developer</h3>
 
-- 🔭 I’m currently working on [MultiShop](https://github.com/GizemG6/MultiShop)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **React, Microservices, Redis**
 
-- 💬 Ask me about **C#, .Net, Python, JavaScript**
+- 💬 Ask me about **C#, .Net, Python**
 
 - 📫 How to reach me **0.gizemgunes@gmail.com**
 
