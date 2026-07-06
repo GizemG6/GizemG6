@@ -30,10 +30,3 @@ Building scalable software and AI-powered products with a focus on clean archite
 - ✍️ Medium: https://medium.com/@0.gizemgunes
 - 📧 Email: 0.gizemgunes@gmail.com
 
----
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GizemG6&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizemG6&layout=compact&theme=transparent&hide_border=true" />
-</p>
