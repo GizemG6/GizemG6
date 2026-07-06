@@ -26,9 +26,9 @@ Building scalable software and AI-powered products with a focus on clean archite
 
 ## 🌐 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/gizm01
-- ✍️ Medium: https://medium.com/@0.gizemgunes
-- 📧 Email: 0.gizemgunes@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/gizm01)
+- ✍️ [Medium](https://medium.com/@0.gizemgunes)
+- 📧 0.gizemgunes@gmail.com
 
 ---
 
