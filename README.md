@@ -5,34 +5,35 @@ Software Engineer • AI • Backend • Cloud
 </p>
 
 <p align="center">
-Building scalable software and experimenting with AI-powered products.
+Building scalable software and AI-powered products with a focus on clean architecture and modern engineering.
 </p>
 
 ---
 
-### Current Focus
+## 🚀 Current Focus
 
 - AI Applications
 - Backend Engineering
 - Cloud Infrastructure
 - System Design
-- Automation
+- Automation & Developer Tools
 
-### Philosophy
+## 💡 Philosophy
 
-- Build useful products.
-- Write maintainable code.
-- Keep learning.
+- Build products that solve real problems.
+- Keep code clean, maintainable, and scalable.
+- Learn continuously and share knowledge.
 
-### Find Me
+## 🌐 Connect
 
-- 💼 LinkedIn → https://linkedin.com/in/gizm01
-- 📧 0.gizemgunes@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/gizm01
+- ✍️ Medium: https://medium.com/@0.gizemgunes
+- 📧 Email: 0.gizemgunes@gmail.com
 
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GizemG6&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GizemG6&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizemG6&layout=compact&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizemG6&layout=compact&theme=transparent&hide_border=true" />
 </p>
